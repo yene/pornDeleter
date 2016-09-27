@@ -1,5 +1,5 @@
-# pornDeleter
-Deletes porn from firefox history.
+# Porn Deleter
+### Deletes porn from firefox history.
 
 A simple shell script that checks firefox history against list of sites and deletes any matching 
 entries. I compiled a list of all the pornsites I could think of.
