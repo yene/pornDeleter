@@ -6,10 +6,13 @@ Preferably to be run on a crontab
 
 ____________
 Requirements:
+
 firefox
+
 sqlite3
 ____________
 Instructions:
+
 Change the value DBPATH to your places.sqlite file.
 
 Usually located in /home/USER/.mozilla/firefox/USERID/places.sqlite
