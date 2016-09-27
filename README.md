@@ -7,9 +7,9 @@ Preferably to be run on a crontab
 ____________
 Requirements:
 
-firefox
+	firefox
 
-sqlite3
+	sqlite3
 ____________
 Instructions:
 
