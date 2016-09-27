@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Defining firefox database 
-DBPATH="/home/daniel/.mozilla/firefox/10qsq47v.default/places.sqlite";
+DBPATH="/home/USER/.mozilla/firefox/USERID/places.sqlite";
 
 #for each line in hosts file, check firefox history database for matching url and delete it
 cat hosts | while read line
